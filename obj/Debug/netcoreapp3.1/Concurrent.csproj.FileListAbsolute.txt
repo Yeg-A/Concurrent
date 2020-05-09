@@ -1,0 +1,13 @@
+C:\Users\Yegermal\Source\Repos\Concurrent\Concurrent\bin\Debug\netcoreapp3.1\Concurrent.exe
+C:\Users\Yegermal\Source\Repos\Concurrent\Concurrent\bin\Debug\netcoreapp3.1\Concurrent.deps.json
+C:\Users\Yegermal\Source\Repos\Concurrent\Concurrent\bin\Debug\netcoreapp3.1\Concurrent.runtimeconfig.json
+C:\Users\Yegermal\Source\Repos\Concurrent\Concurrent\bin\Debug\netcoreapp3.1\Concurrent.runtimeconfig.dev.json
+C:\Users\Yegermal\Source\Repos\Concurrent\Concurrent\bin\Debug\netcoreapp3.1\Concurrent.dll
+C:\Users\Yegermal\Source\Repos\Concurrent\Concurrent\bin\Debug\netcoreapp3.1\Concurrent.pdb
+C:\Users\Yegermal\Source\Repos\Concurrent\Concurrent\obj\Debug\netcoreapp3.1\Concurrent.csprojAssemblyReference.cache
+C:\Users\Yegermal\Source\Repos\Concurrent\Concurrent\obj\Debug\netcoreapp3.1\Concurrent.csproj.CoreCompileInputs.cache
+C:\Users\Yegermal\Source\Repos\Concurrent\Concurrent\obj\Debug\netcoreapp3.1\Concurrent.AssemblyInfoInputs.cache
+C:\Users\Yegermal\Source\Repos\Concurrent\Concurrent\obj\Debug\netcoreapp3.1\Concurrent.AssemblyInfo.cs
+C:\Users\Yegermal\Source\Repos\Concurrent\Concurrent\obj\Debug\netcoreapp3.1\Concurrent.dll
+C:\Users\Yegermal\Source\Repos\Concurrent\Concurrent\obj\Debug\netcoreapp3.1\Concurrent.pdb
+C:\Users\Yegermal\Source\Repos\Concurrent\Concurrent\obj\Debug\netcoreapp3.1\Concurrent.genruntimeconfig.cache
